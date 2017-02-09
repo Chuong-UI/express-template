@@ -1,0 +1,22 @@
+{
+  "name": "demo-simple-web",
+  "version": "0.0.1",
+  "description": "DemoSimpleWeb",
+  "main": "app.js",
+  "author": {
+    "name": "ductien"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "chalk": "*",
+    "connect-mongo": "^1.3.2",
+    "errorhandler": "*",
+    "express": "*",
+    "express-flash": "0.0.2",
+    "express-session": "^1.14.2",
+    "express-validator": "^3.1.2",
+    "jade": "^1.11.0",
+    "mongoose": "^4.8.1",
+    "multer": "^1.3.0"
+  }
+}
